@@ -437,11 +437,13 @@ docker push myregistry.azurecr.io/myimage:latest
 ```
 
 ### Sources
-- https://github.com/krol3/container-security-checklist
-- https://github.com/OWASP/Docker-Security
-- https://spacelift.io/blog/docker-security#7-harden-your-host
-- https://www.aquasec.com/blog/docker-security-best-practices/
-- https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools#
-- https://owasp.org/www-chapter-belgium/assets/2018/2018-09-07/Dirk_Wetter_-_Docker_Security_Brussels.pdf
-- https://www.oreilly.com/library/view/container-security/9781492056690/ch01.html
-- https://cloudsecdocs.com/containers/theory/threats/docker_threat_model/
+- [Docker Security Best Practices: A Complete Guidehttps://www.aquasec.com/blog/docker-security-best-practices/](https://www.aquasec.com/blog/docker-security-best-practices/)
+- [Free for Open Source Application Security Tools](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
+- [NIST Special Publication 800-190: Application Container Security Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf)
+- [Container Security Checklist](https://github.com/krol3/container-security-checklist)
+- [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
+- [21 Docker Security Best Practices: Daemon, Image, Containers](https://spacelift.io/blog/docker-security)
+- [OWASP Docker Security](https://github.com/OWASP/Docker-Security)
+- [Docker Security Brussels Presentation](https://owasp.org/www-chapter-belgium/assets/2018/2018-09-07/Dirk_Wetter_-_Docker_Security_Brussels.pdf)
+- [Container Security: Fundamental Technology Concepts that Protect Containerized Applications](https://www.oreilly.com/library/view/container-security/9781492056690/ch01.html)
+- [Docker Threat Modeling](https://cloudsecdocs.com/containers/theory/threats/docker_threat_mod)
